@@ -1,2 +1,2 @@
 # Intro
-Headlines 
+A simple HTML, CSS, JavaScript project.
